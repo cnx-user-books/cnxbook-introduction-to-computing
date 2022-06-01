@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter-3-1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61603</md:content-id>
+  <md:title>Chapter-3-1</md:title>
+  <md:abstract/>
+  <md:uuid>626b57c1-c3cf-4a50-ac34-3c70d422e351</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1166345758475">
+      <title>CSC1010 – Introduction to Computing</title>
+      <section id="import-auto-id1166345781522">
+        <title>Structures in Computing<media id="import-auto-id1166345759511" alt=""><image mime-type="image/png" src="../../media/Picture 1-da0a.png" height="432" width="576"/></media></title>
+        <figure id="import-auto-id1166345780450">
+          <media id="import-auto-id1166345774304" alt="">
+            <image mime-type="image/png" src="../../media/Picture 6-6f62.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346383268">
+          <media id="import-auto-id1166345793946" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-5851.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166345770832">
+          <media id="import-auto-id1166346215238" alt="">
+            <image mime-type="image/png" src="../../media/Picture 8-4e91.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166345804421">
+          <media id="import-auto-id1166345810929" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-ef2a.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166345804099">
+          <media id="import-auto-id1166346218704" alt="">
+            <image mime-type="image/png" src="../../media/Picture 10-d423.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346217703">
+          <media id="import-auto-id1166346242186" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-a1d0.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166345752722">
+          <media id="import-auto-id1166346232287" alt="">
+            <image mime-type="image/png" src="../../media/Picture 12-a8bf.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166347046251">
+          <media id="import-auto-id1166346231858" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-8b9e.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346992335">
+          <media id="import-auto-id1166346264021" alt="">
+            <image mime-type="image/png" src="../../media/Picture 14-93b1.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166344967544">
+          <media id="import-auto-id1166346262270" alt="">
+            <image mime-type="image/png" src="../../media/Picture 17-b396.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166345812001">
+          <media id="import-auto-id1166346663730" alt="">
+            <image mime-type="image/png" src="../../media/Picture 18-ba9c.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346627429">
+          <media id="import-auto-id1166346643188" alt="">
+            <image mime-type="image/png" src="../../media/Picture 19-219b.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166345799740">
+          <media id="import-auto-id1166345793231" alt="">
+            <image mime-type="image/png" src="../../media/Picture 20-2219.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id6214184">
+          <media id="import-auto-id5368435" alt="">
+            <image mime-type="image/png" src="../../media/Picture 21-dbdf.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346184873">
+          <media id="import-auto-id1166346673521" alt="">
+            <image mime-type="image/png" src="../../media/Picture 22-05fe.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346003609">
+          <media id="import-auto-id1920658" alt="">
+            <image mime-type="image/png" src="../../media/Picture 23-63ca.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346600910">
+          <media id="import-auto-id1166345747643" alt="">
+            <image mime-type="image/png" src="../../media/Picture 24-bd69.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166347012409">
+          <media id="import-auto-id3314633" alt="">
+            <image mime-type="image/png" src="../../media/Picture 25-c558.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id6224142">
+          <media id="import-auto-id3191968" alt="">
+            <image mime-type="image/png" src="../../media/Picture 26-6765.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346679662">
+          <media id="import-auto-id1166346102200" alt="">
+            <image mime-type="image/png" src="../../media/Picture 27-b879.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166351996950">
+          <media id="import-auto-id1166347012732" alt="">
+            <image mime-type="image/png" src="../../media/Picture 28-86ef.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id6315790">
+          <media id="import-auto-id1166346022102" alt="">
+            <image mime-type="image/png" src="../../media/Picture 29-2374.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346128779">
+          <media id="import-auto-id5672104" alt="">
+            <image mime-type="image/png" src="../../media/Picture 30-4d7f.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346376509">
+          <media id="import-auto-id1166346663944" alt="">
+            <image mime-type="image/png" src="../../media/Picture 31-bd18.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346689315">
+          <media id="import-auto-id1166346197233" alt="">
+            <image mime-type="image/png" src="../../media/Picture 32-0fc4.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346695532">
+          <media id="import-auto-id1166346181688" alt="">
+            <image mime-type="image/png" src="../../media/Picture 33-6aa9.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1166346165860">
+          <media id="import-auto-id1166346191306" alt="">
+            <image mime-type="image/png" src="../../media/Picture 34-cbf9.png" height="432" width="576"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+  </content>
+</document>

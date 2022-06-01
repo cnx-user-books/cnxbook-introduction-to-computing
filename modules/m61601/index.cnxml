@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>CSC1010-Chapter2-2</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61601</md:content-id>
+  <md:title>CSC1010-Chapter2-2</md:title>
+  <md:abstract/>
+  <md:uuid>d82e0ddd-f3ae-4791-b8e9-ec803191cb49</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1172402766830">
+      <title>CSC1010 – Chapter-2-2</title><section id="import-auto-id1172395167453">
+        <title>Industry of Computing</title>
+        <figure id="import-auto-id3125028">
+          <media id="import-auto-id1172395108247" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-e180.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172395175651">
+          <media id="import-auto-id1172397467223" alt="">
+            <image mime-type="image/png" src="../../media/Picture 6-103e.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172396249783">
+          <media id="import-auto-id1172395110543" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-3026.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172397305307">
+          <media id="import-auto-id1172396434932" alt="">
+            <image mime-type="image/png" src="../../media/Picture 8-998e.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172395171317">
+          <media id="import-auto-id1172395207665" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-fbda.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172396958629">
+          <media id="import-auto-id8556680" alt="">
+            <image mime-type="image/png" src="../../media/Picture 10-ea1c.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172395213769">
+          <media id="import-auto-id1172395226692" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-e29c.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172398359303">
+          <media id="import-auto-id1172395218414" alt="">
+            <image mime-type="image/png" src="../../media/Picture 12-f80b.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <para id="import-auto-id1172395600120">
+          <figure id="import-auto-id1172396035902">
+            <media id="import-auto-id1172395425942" alt="">
+              <image mime-type="image/png" src="../../media/Picture 13-1556.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172395205756">
+            <media id="import-auto-id7675889" alt="">
+              <image mime-type="image/png" src="../../media/Picture 14-694a.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id7674966">
+            <media id="import-auto-id1172395226483" alt="">
+              <image mime-type="image/png" src="../../media/Picture 15-fe58.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id7675984">
+            <media id="import-auto-id1172395226295" alt="">
+              <image mime-type="image/png" src="../../media/Picture 16-8ebd.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172395217990">
+            <media id="import-auto-id1172395205829" alt="">
+              <image mime-type="image/png" src="../../media/Picture 17-59be.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id7860796">
+            <media id="import-auto-id1172395198444" alt="">
+              <image mime-type="image/png" src="../../media/Picture 18-2b64.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172396588517">
+            <media id="import-auto-id1172395226949" alt="">
+              <image mime-type="image/png" src="../../media/Picture 19-7cde.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172395112686">
+            <media id="import-auto-id1172395207888" alt="">
+              <image mime-type="image/png" src="../../media/Picture 20-b6ac.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172395207843">
+            <media id="import-auto-id1172395103838" alt="">
+              <image mime-type="image/png" src="../../media/Picture 21-83f0.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172395183850">
+            <media id="import-auto-id1172396396736" alt="">
+              <image mime-type="image/png" src="../../media/Picture 22-fc0e.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172397442831">
+            <media id="import-auto-id1172395345483" alt="">
+              <image mime-type="image/png" src="../../media/Picture 23-9d51.png" height="432" width="576"/>
+            </media>
+          </figure>
+        </para>
+        <para id="import-auto-id1172397942021">
+          <figure id="import-auto-id1172397115329">
+            <media id="import-auto-id1172395539442" alt="">
+              <image mime-type="image/png" src="../../media/Picture 24-206f.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172398038514">
+            <media id="import-auto-id1172397084926" alt="">
+              <image mime-type="image/png" src="../../media/Picture 25-cdd8.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172398086989">
+            <media id="import-auto-id1172397232369" alt="">
+              <image mime-type="image/png" src="../../media/Picture 26-9ed5.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id2138435">
+            <media id="import-auto-id1172397710539" alt="">
+              <image mime-type="image/png" src="../../media/Picture 27-9ed5.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id3169635">
+            <media id="import-auto-id1172395195821" alt="">
+              <image mime-type="image/png" src="../../media/Picture 28-4a60.png" height="432" width="576"/>
+            </media>
+          </figure>
+        </para>
+        <para id="import-auto-id1172395179953">
+          <figure id="import-auto-id6674204">
+            <media id="import-auto-id1172395107422" alt="">
+              <image mime-type="image/png" src="../../media/Picture 30-675e.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id1172395172206">
+            <media id="import-auto-id1172395168203" alt="">
+              <image mime-type="image/png" src="../../media/Picture 31-6f3a.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id6385540">
+            <media id="import-auto-id1172395180005" alt="">
+              <image mime-type="image/png" src="../../media/Picture 32-b2bf.png" height="432" width="576"/>
+            </media>
+          </figure>
+          <figure id="import-auto-id5062900">
+            <media id="import-auto-id1172397062297" alt="">
+              <image mime-type="image/png" src="../../media/Picture 33-03c9.png" height="432" width="576"/>
+            </media>
+          </figure>
+        </para>
+        <figure id="import-auto-id1172397579960">
+          <media id="import-auto-id1172397357980" alt="">
+            <image mime-type="image/png" src="../../media/Picture 34-e030.png" height="432" width="576"/>
+          </media>
+        </figure>
+        <figure id="import-auto-id1172398828069">
+          <media id="import-auto-id1172397301716" alt="">
+            <image mime-type="image/png" src="../../media/Picture 35.png" height="432" width="576"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+  </content>
+</document>

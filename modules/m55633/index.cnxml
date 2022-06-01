@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>CSC1010-Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55633</md:content-id>
+  <md:title>CSC1010-Introduction</md:title>
+  <md:abstract>What is data? What is Information? Where do computers fit into the data and information world?</md:abstract>
+  <md:uuid>dba07085-472d-41f7-a1d1-0b24c20b309d</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id7980308">
+      <title>CSC1010 - Introduction</title>
+      <section id="import-auto-id8245028">
+        <title>Computing?</title>
+        <para id="import-auto-id8834046">This is the "introduction" to the Introduction of Computing. We explore the differences between data, knowledge, and information and their uses. There is a short exercise at the end of the module. </para>
+        <para id="import-auto-id8379958">We all have this <link url="http://www.youtube.com/watch?v=I3Xn-GBxRWQ&amp;feature=em-share_video_user" window="new">end user computing</link> frustration.</para><para id="import-auto-id8216031">There are <link url="http://www.youtube.com/watch?v=I3Xn-GBxRWQ&amp;feature=em-share_video_user" window="new">devices</link> that cause frustration.</para><para id="import-auto-id8834039">We have <link url="http://www.youtube.com/watch?v=FM6JposvOeQ&amp;feature=em-share_video_user" window="new">data input</link> that causes frustration.</para><para id="import-auto-id7608125">And sometimes we want to <link url="http://www.youtube.com/watch?v=MAVnRv3nZVo&amp;feature=em-share_video_user" window="new">act out our frustration</link>   on computers.</para></section>
+      <section id="import-auto-id8830045">
+        <title>Data, Information, &amp; Knowledge</title>
+        <para id="import-auto-id7775219">This is the "introduction" to the Introduction of Computing. We explore the differences between data, knowledge, and information and their uses. This is a short exercise at the end of the module. </para>
+        <para id="import-auto-id8607673">What is data?</para>
+        <para id="import-auto-id8838159">What is information?</para>
+        <para id="import-auto-id7906951">What is knowledge?</para>
+        <figure id="PYRAMID">
+          <title>The Distribution of Understanding</title>
+          <media id="understandingpic" alt="pyramid of understanding">
+              <image mime-type="image/jpeg" src="../../media/Figure1.jpg"/>
+          </media>
+          <caption>
+             Diagram by RobOnKnowledge (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons from Wikimedia Commons.
+          </caption>
+        </figure>
+        </section>
+      <section id="import-auto-id8085612">
+        <title>What’s the Difference?</title>
+        <list id="import-auto-id7091050" list-type="bulleted">
+          <item><link url="http://youtu.be/vDt3ik2v-Wg">One perspective</link> from Bob Boiko of the University of Washington (video)</item>
+          <item>A more detailed <link url="http://www.diffen.com/difference/Data_vs_Information">explanation</link></item>
+        </list>
+      </section>
+      <section id="import-auto-id8141754">
+        <title>Information = Data + Context</title>
+        <list id="import-auto-id8016240" list-type="bulleted">
+          <item>Group multiple pieces of data together</item>
+          <item>Establish relationships between data items</item>
+          <item>Provide context/framework for data</item>
+          <item>Interpret resulting combination</item>
+        </list>
+      </section>
+      <section id="import-auto-id1171376094921">
+        <title>Validity of Information</title>
+        <list id="import-auto-id7731107" list-type="bulleted">
+          <item>Valid Data -&gt; Valid Information?</item>
+          <item>Not necessarily!<list id="import-auto-id6925517" list-type="bulleted"><item>What if the data is incomplete?</item><item>What if the data is inaccurate?</item><item>What if the context for the data is missing?</item></list></item>
+          <item>If information is invalid, what happens to knowledge?</item>
+        </list>
+      </section>
+      <section id="import-auto-id8593382">
+        <title>Where do computers fit in?</title>
+        <list id="import-auto-id1171376101500" list-type="bulleted">
+          <item>Computers store data.</item>
+          <item>Computers process data</item>
+          <item>Computers generate information</item>
+        </list>
+      </section>
+      <section id="import-auto-id8841314">
+        <title>Data Processing Examples</title>
+        <list id="import-auto-id1171376090953" list-type="bulleted">
+          <item>Organize data</item>
+          <item>Calculate new data</item>
+          <item>Interpret data in a different format</item>
+          <item>Spreadsheets</item>
+          <item>Database management systems</item>
+          <item>Accounting software</item>
+          <item>Graphics manipulation programs</item>
+        </list>
+      </section>
+      <section id="import-auto-id7707925">
+        <title>Visualation as a Tool</title>
+        <list id="import-auto-id8434061" list-type="bulleted">
+          <item>David McCandless uses visualizations to turn large amounts of data into information.</item>
+          <item>
+            <link url="http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization">Ted Talk 2010</link>
+          </item>
+          <item>
+            <link url="http://www.informationisbeautiful.net/2010/data-information-knowledge-wisdom/">Data, Information, Knowledge, Wisdom</link>
+            <list id="import-auto-id7933459" list-type="bulleted"><item>Note his take on the diagram on page 3</item>
+            </list></item>
+          <item>His <link url="http://informationisbeautiful.net/">Information is Beautiful</link> website has many more examples of visualizations of data.</item>
+        </list>
+      </section>
+      <section id="import-auto-id7073512">
+        <title>Reflect and Investigate</title>
+        <list id="import-auto-id8125889" list-type="enumerated" number-style="arabic">
+          <item>Give your own example of valid data producing invalid information.</item>
+          <item>Explore the <link url="http://informationisbeautiful.net/">Information is Beautiful</link> website and find a visualization, either in the blog or the Our Data section, that you think does a particularly good job of turning data into information. Why did you choose this particular item, and what makes it so good? </item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

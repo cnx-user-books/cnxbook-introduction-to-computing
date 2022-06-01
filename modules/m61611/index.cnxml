@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>CSC1010-Chapter1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61611</md:content-id>
+  <md:title>CSC1010-Chapter1</md:title>
+  <md:abstract/>
+  <md:uuid>3c0f97f0-948a-49e1-be21-4130e9cb59a0</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id2255453">
+      <title>CSC1010 – Chapter1 – History of Computing</title>
+      <section id="import-auto-id2424725">
+        <title>Before the Industrial Revolution</title>
+        <para id="import-auto-id2355316">The Renaissance was a time of great philosophical and scientific progress, including critical milestones in mathematics that would lead toward the invention of the computer.</para>
+        <para id="import-auto-id1515538">Boolean Algebra: This was published by George Boole in 1854. It clarified the mathematical field of Booldan logic and algebra. It formed the basis for computer hardware. For further details, please visit <link url="http://history-computer.com/ModernComputer/thinkers/Boole.html">George Boole's Contribution</link></para>
+      </section>
+      <section id="import-auto-id1791024">
+        <title>Early Calculating Devices</title>
+        <para id="import-auto-id2951047">These appeared approximately before 1820. The basic calculating devices were invented to support simple mathematics. This category of devices were mechanical in nature and could not store any data.</para>
+        <para id="import-auto-id2290977">Abacus</para>
+        <list id="import-auto-id2661608" list-type="bulleted">
+          <item>Invented about 3000 BC</item>
+          <item>Originated in either China or the Indus River Valley area</item>
+          <item>
+            <link url="http://history-computer.com/CalculatingTools/abacus.html">Discussion of the abacus</link>
+          </item>
+          <item><link url="http://youtu.be/CvsnftXXKdw">Demonstration of an abacus</link> (video)</item>
+        </list>
+        <para id="import-auto-id5534085">Napier's Bones</para>
+        <list id="import-auto-id5533377" list-type="bulleted">
+          <item>Device using lattice multiplication for calculating products and quotients</item>
+          <item>Mechanical, but not mechanized</item>
+          <item><link url="http://youtu.be/3gjDfc2AF3w">Napier's Bones: How They Work</link> (video)</item>
+        </list>
+        <para id="import-auto-id5533782">Slide Rule</para>
+        <list id="import-auto-id3089098" list-type="bulleted">
+          <item>Invented by William Oughtred in 1622</item>
+          <item>Following up on Napier's work with both logarithms &amp; Napier's Bones</item>
+          <item>Performs a variety of mathematical calculations</item>
+          <item><link url="http://youtu.be/uUzSStVnAHk">How to Use a Slide Rule</link> (video)</item>
+        </list>
+        <para id="import-auto-id2368497">The Rechenuhr (Calculating Clock)</para>
+        <list id="import-auto-id3002039" list-type="bulleted">
+          <item>First mechanical calculating device</item>
+          <item>Built by Wilhelm Schickard in 1623</item>
+          <item>Functioned accurately but had several mechanical flaws and was never placed into full production</item>
+        </list>
+        <para id="import-auto-id2720135">Pascaline</para>
+        <list id="import-auto-id5533256" list-type="bulleted">
+          <item>Developed in 1643 by French mathematician Blaise Pascal</item>
+          <item>Mechanical device that could add and subtract (in other words, a basic calculator)</item>
+          <item>
+            <link url="http://history-computer.com/MechanicalCalculators/Pioneers/Pascal.html">Pascal and his Calculator</link>
+          </item>
+          <item><link url="http://youtu.be/3h71HAJWnVU">How the Pascaline Works</link> (video)</item>
+        </list>
+        <para id="import-auto-id1859411">Von Leibnitz “<link url="http://ds.haverford.edu/bitbybit/bit-by-bit-contents/chapter-one/1-8-leibniz-and-the-stepped-reckoner/">Stepped Reckoner</link>”</para>
+        <list id="import-auto-id2971895" list-type="bulleted">
+          <item>Built in 1673 by German mathematician Gottfried Wilhelm von Leibnitz<list id="import-auto-id2919433" list-type="bulleted"><item>Inventor of differential &amp; integral calculus </item></list></item>
+          <item>Calculating device improving on the Pascaline</item>
+          <item>Could multiply as well as add and subtract (but still couldn't divide).</item>
+        </list>
+      </section>
+      <section id="import-auto-id2230378">
+        <title>The Industrial Revolution</title>
+        <para id="import-auto-id1893171">The 1700s and early 1800s were a time of great political and social unrest (examples: the American and French Revolutions). As a result, mathematics and science took a back seat to other endeavors until the political and social climate settled down and the Industrial Revolution began early in the 19<sup>th</sup> century.</para>
+      </section>
+      <section id="import-auto-id3008314">
+        <title>19<sup>th</sup> Century Computing Devices</title>
+        <list id="import-auto-id2878806" list-type="bulleted">
+          <item>Products of the Industrial Revolution <list id="import-auto-id1706850" list-type="bulleted"><item>Mechanical devices</item><item>Limited data storage<list id="import-auto-id2598913" list-type="bulleted"><item>Small quantities</item><item>Clumsy methods</item></list></item><item>Design often outpaced available technology</item></list></item>
+          <item>
+            <link url="http://cgi.csc.liv.ac.uk/~ped/teachadmin/histsci/htmlform/lect4.html">19th century contributions to computing</link>
+          </item>
+        </list>
+        <para id="import-auto-id2873109">Jacquard’s Loom</para>
+        <list id="import-auto-id2929301" list-type="bulleted">
+          <item>Invented by Joseph Jacquard between 1801-1804</item>
+          <item>Built upon the work of Basile Bouchon, Jean Falcon and Jacques de Vaucanson to create an automatic weaving loom.</item>
+          <item>Wove intricately patterned cloth based on instructions contained on punched cards.</item>
+          <item>The first programmable stored instruction machine actually built.</item>
+          <item><link url="http://youtu.be/lwozgRPLVC8">Jacquard Loom: Early Computer Programing</link> (video)</item>
+        </list>
+        <para id="import-auto-id2178875">Charles Babbage</para>
+        <list id="import-auto-id2928053" list-type="bulleted">
+          <item><link url="http://www.charlesbabbage.net/">Charles Babbage</link> can be considered the single most important individual in the pre-20<sup>th</sup> century development of the computer.</item>
+          <item>Lucasian Professor of Mathematics at Cambridge University</item>
+          <item>Co-founder of the Royal Astronomical Society</item>
+          <item>Cryptographer who broke Vignere's autokey cypher (thought to be unbreakable)</item>
+          <item>Inventor of the locomotive cow-catcher</item>
+        </list>
+        <para id="import-auto-id2095429">Difference Engine</para>
+        <list id="import-auto-id2910570" list-type="bulleted">
+          <item>Version 1: 1820-1830</item>
+          <item>Solved polynomial equations of the form ax2+bx+c to an accuracy of six places</item>
+          <item>Gear-driven machine</item>
+          <item>All calculating was done with repeated addition</item>
+          <item>
+            <link url="http://www.fampennings.nl/maarten/diffeng/index.htm">Difference Engine Simulator</link>
+          </item>
+          <item>Prototype consisting of 1/7 of the final machine was built in 1832</item>
+          <item>Remainder was never completed</item>
+        </list>
+        <media id="Difference-EngineI" alt="A difference engine built by Charles Babbage.">
+  <image mime-type="image/jpeg" src="../../media/Picture1.jpg"/>
+</media>
+
+        <note id="eip-200">Image from the Science Museum via computerhistory.org</note><para id="import-auto-id1966237">Analytical Engine</para>
+        <list id="import-auto-id2096631" list-type="bulleted">
+          <item>Designed 1833-1842</item>
+          <item>Stored program machine to perform any type of arithmetic calculation</item>
+          <item>Numerous limitations prevented Babbage from actually building it<list id="import-auto-id1869076" list-type="bulleted"><item>Politics, economics, personalities were as much a factor as technology</item></list></item>
+          <item>Comprised of three main parts<list id="import-auto-id2078209" list-type="bulleted"><item>“Mill” for calculations</item><item>“Store” for storing data</item><item>Input/output device</item></list></item>
+          <item>Design corresponds in many ways to the basic architecture of the modern computer</item>
+          <item>Babbage <link url="http://www.fourmilab.ch/babbage/lpae.html">describes the Analytical Engine</link> in his autobiography</item>
+          <item>Machine has not been built to this day</item>
+          <item><link url="http://plan28.org/">Plan28.org</link> Has been established to build the Analytical Engine by 2020</item>
+          <item>Watch John Graham-Cunningham's TEDx talk on “<link url="http://youtu.be/4rzAL5YwFow">The Greatest Machine that Never Was”</link></item>
+        </list>
+        <para id="import-auto-id1923679">Difference Engine #2</para>
+        <list id="import-auto-id1774001" list-type="bulleted">
+          <item>Designed between 1847 and 1849</item>
+          <item>Improved upon the original Difference Engine with a simpler design to achieve the same computing power</item>
+          <item>Again, not built during Babbage's lifetime</item>
+          <item><link url="http://www.computerhistory.org/babbage/modernsequel/">Was finally built</link> between 1985 and 2002 by the Science Museum of London, exactly to Babbage's original plans </item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

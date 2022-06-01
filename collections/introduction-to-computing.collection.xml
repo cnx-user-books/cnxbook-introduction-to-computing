@@ -1,0 +1,62 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11798</md:content-id>
+    <md:title>Introduction to Computing</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>ab184547-4169-4b19-adff-cf30dace1252</md:uuid>
+<md:slug>introduction-to-computing</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m55633"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter1</md:title>
+      <col:content>
+        <col:module document="m61611"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter2.1</md:title>
+      <col:content>
+        <col:module document="m61600"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter2.2</md:title>
+      <col:content>
+        <col:module document="m61601"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter3.1</md:title>
+      <col:content>
+        <col:module document="m61603"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter3.2</md:title>
+      <col:content>
+        <col:module document="m61604"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter4</md:title>
+      <col:content>
+        <col:module document="m61606"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Instructor Resources</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Student Resources</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>
